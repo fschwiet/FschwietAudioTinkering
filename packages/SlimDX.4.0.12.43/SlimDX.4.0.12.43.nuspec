@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>SlimDX</id>
+    <version>4.0.12.43</version>
+    <authors>SlimDX Group</authors>
+    <owners>SlimDX Group</owners>
+    <licenseUrl>http://slimdx.org/license.php</licenseUrl>
+    <projectUrl>http://slimdx.org/features.php</projectUrl>
+    <iconUrl>http://slimdx.org/images/logoblackbg.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SlimDX is a free open source framework that enables developers to easily build DirectX applications using .NET technologies such as C#, VB.NET, and IronPython.</description>
+    <releaseNotes>SlimDX is currently rock solid, covers just about every multimedia API provided by Microsoft, and is stable enough to be used by commercial projects and companies, including several AAA game studios. Several companies and products using SlimDX: Spiderman: Web of Shadows, Zipper Interactive, LizardTech
+Star Wars: The Force Unleashed</releaseNotes>
+    <copyright>Copyright (c) 2009-2011 SlimDX Group</copyright>
+    <tags>DirectX DX Math Library Direct3D9 Direct3D9Ex Direct3D10 Direct3D 10.1 11 Direct2D D3DCompiler DirectWrite DirectInput DirectSound DXGI 1.1 Windows Multimedia Raw Input X3DAudio XAPO XACT3 XAudio2 XInput</tags>
+  </metadata>
+</package>
